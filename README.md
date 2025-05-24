@@ -2,10 +2,6 @@
 
 A simple and interactive Tic-Tac-Toe game built with React, designed for desktop browsers. Play against a friend and enjoy the classic game with a modern interface.
 
-## 🌐 Live Demo
-
-https://tic-tac-8w82x1w3d-mandip-shresthas-projects.vercel.app/
-
 ## 📁 Project Structure
 
     Tic-Tac-Toe/
