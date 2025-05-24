@@ -24,7 +24,7 @@ A simple and interactive Tic-Tac-Toe game built with React, designed for desktop
     ✔️ Clean and intuitive UI
     ✔️ Real-time game updates
     ✔️ Built with React and Vite
-    ✔️ Deployed on Vercel
+   
 
 ## 🧰 Technologies Used
 
